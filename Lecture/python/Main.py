@@ -16,10 +16,10 @@
 # Program to print min in hour
 # Program to convert min into hour
 # Program to convert minutes into hours
-print("Enter Min")
-min = int(input())
-hour = min / 60
-print("Hour =", hour)
+#print("Enter Min")
+##min = int(input())
+#hour = min / 60
+#print("Hour =", hour)
 
 #4. write a program to extract the last four digits of an number 
 # ex: 1234: last  digit is 4 
@@ -36,4 +36,17 @@ print("Hour =", hour)
 
 #write a programm to swap two variables without a third variable, using arithmatic operations 
 #example : before swap a=10, b=20
-          # after swap =20 , b=10        
+          # after swap =20 , b=10     
+
+
+# a = 10
+#b = 20
+
+#print("Before swap: a =", a, "b =", b)
+
+#a = a + b
+#b = a - b
+#a = a - b
+
+#print("After swap: a =", a, "b =", b)
+# 
