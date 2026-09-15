@@ -1,0 +1,6 @@
+#loop 
+
+
+while True:
+    string = input("Enter a String:")
+    print(string)
